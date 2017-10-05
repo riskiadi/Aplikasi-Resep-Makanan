@@ -19,10 +19,11 @@ class RecyclerAdapter extends  RecyclerView.Adapter<RecyclerViewHolder> {
 
     private final Context context;
 
-    String [] name={"Nasi Goreng","Pecel","Sandwich","Soto","Kue Bandung","Martabak"};
+    String [] name={"Nasi Goreng","Pecel","Sandwich","Soto","Kue Bandung","Martabak","Ceker Pedas","Serundeng","Capcay"};
     String [] desc={"Cara Membuat "};
 
-    int [] images = {R.drawable.arr0, R.drawable.arr1, R.drawable.arr2, R.drawable.arr3, R.drawable.arr4, R.drawable.arr5};
+    int [] images = {R.drawable.arr0, R.drawable.arr1, R.drawable.arr2, R.drawable.arr3, R.drawable.arr4, R.drawable.arr5, R.drawable.arr6, R.drawable.arr7, R.drawable.bnr8};
+    int [] banner = {R.drawable.bnr0, R.drawable.bnr1, R.drawable.bnr2, R.drawable.bnr3, R.drawable.bnr4, R.drawable.bnr5, R.drawable.bnr6, R.drawable.bnr7, R.drawable.bnr8};
 
     // menampilkan list item dalam bentuk text dengan tipe data string dengan variable name
 
@@ -75,7 +76,7 @@ class RecyclerAdapter extends  RecyclerView.Adapter<RecyclerViewHolder> {
             Bundle x = new Bundle();
             x.putString("Resep", "Resep " + name[position]);
             //Mendapatkan gambar dinamis
-            x.putInt("picture", images[position]);
+            x.putInt("picture", banner[position]);
 
             Toast.makeText(context,"Membuka resep " + name[position],Toast.LENGTH_SHORT).show();
 
