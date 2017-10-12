@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">sinau</string>
+
+    <string-array name="judul">
+        <item>Nasi Goreng</item>
+        <item>Ceker Pedas</item>
+        <item>Pempek</item>
+        <item>Bakwan Jagung</item>
+        <item>Mendoan</item>
+        <item>Pepes Ikan</item>
+        <item>Opor Ayam</item>
+        <item>Pindang Ikang</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng atau margarin, biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya, seperti telur, ayam, dan kerupuk</item>
+        <item>Resto atau warung makan yang sediakan ceker pedas umumnya begitu sangat ramai pengunjungnya, terlebih anak mudanya, tentu paling banyak. Lantaran memanglah saat makanan mempunyai rasa pedas yg tidak umum bakal jadi fokus perhatian beberapa orang terutama beberapa muda-mudi.</item>
+        <item>Penyajian pempek ditemani oleh kuah saus berwarna hitam kecokelat-cokelatan, yang disebut cuka atau cuko (bahasa Palembang). Cuko dibuat dari air yang dididihkan, kemudian ditambah gula merah, ebi (udang kering), cabai rawit tumbuk, bawang putih, dan garam.</item>
+        <item>Bakwan adalah makanan gorengan yang terbuat dari sayuran dan tepung terigu yang lazim ditemukan di Indonesia.Bakwan biasanya merujuk kepada kudapan gorengan sayur-sayuran yang biasa dijual oleh penjaja keliling gorengan. Bahannya terdiri dari taoge, irisan kubis (kol) atau irisan wortel, dicampur dalam adonan tepung terigu dan digoreng dalam minyak goreng yang cukup banyak.</item>
+        <item>Kata mendoan dianggap berasal dari bahasa Banyumasan, mendo yang berarti setengah matang atau lembek. Mendoan berarti memasak dengan minyak panas yang banyak dengan cepat sehingga masakan tidak matang benar. Bahan makanan yang paling sering dibuat mendoan adalah tempe dan tahu.</item>
+        <item>Pepes atau Pais merupakan suatu cara khas dari Jawa Barat untuk mengolah bahan makanan (biasanya untuk ikan) dengan bantuan daun pisang untuk membungkus ikan beserta bumbunya.</item>
+        <item>Opor ayam merupakan masakan yang sangat dikenal di Indonesia. Opor ayam diklaim berasal dari daerah berbudaya Jawa, khususnya Jawa Tengah dan Jawa Timur sebelah barat. Meskipun demikian, masakan ini juga telah dikenal luas di daerah lain.</item>
+        <item>Pindang merupakan hasil olahan ikan dengan cara kombinasi perebusan (pemasakan) dan penggaraman.Produk yang dihasilkan merupakan produk awetan ikan dengan kadar garam rendah.</item>
+    </string-array>
+
+    <string-array name="resep">
+        <item>\n
+            \u2022 500 gr nasi putih\n
+            \u2022 125 gr daging ayam yang telah dicincang halus\n
+            \u2022 1 buah wortel yang telah dipotong dadu\n
+            \u2022 1/2 ikat sawi atau kol secukupnya yang telah dipotong-potong\n
+            \u2022 2 sdm kecap manis
+        </item>
+    </string-array>
+
+    <string-array name="langkah">
+        <item>\n
+        \u2022 Campurkan bawang merah, bawang putih dan cabai ke dalam cobek lalu uleg atau haluskan sampai rata\n
+        \u2022 Masukkan minyak secukupnya ke dalam wajan, kemudian panaskan\n
+        \u2022 Masukkan campuran bumbu yang telah dihaluskan ke dalam minyak yang telah panas, kemudian tumis hingga harum\n
+        \u2022 Sisihkan bumbu yang telah ditumis pada pinggiran wajan, kemudian masukkan kocokan telur, aduk rata telur hingga menggumpal-gumpal kecil\n
+        \u2022 Kemudian masukkan daging ayam yang telah dicincang halus, masak hingga warnanya berubah agak kuning kecoklatan\n
+        \u2022 Tambahkan potongan kol atau sawi dan wortel ke dalam masakan, kemudian aduk-aduk\n
+        \u2022 Selanjutnya masukkan garam, kecap manis dan kecap asin, aduk terus hingga tercampur rata\n
+        \u2022 Terakhir, masukkan nasi putih, aduk-aduk hingga semua bahan dan bumbu merata dengan nasinya\n
+        \u2022 Sebelum disajikan jangan lupa untuk mencicipi masakan terlebih dahulu, jika sudah yakin dengan rasanya silahkan angkat dan sajikan selagi hangat, tambahkan juga acar timun dan kerupuk udang sebagai bahan pelengkap. Yumm!\n
+        </item>
+    </string-array>
+
+</resources>
